@@ -1,6 +1,6 @@
 ## 𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱 !
 
-![](https://github.com/Doc-McCoy/Doc-McCoy/blob/master/img/cyber.gif)
+![](https://github.com/Youssef-Bu/Youssef-Bu/blob/main/pic/cyber.gif)
 
 ---
 
@@ -28,4 +28,8 @@
   
 </div>
  
-<img src="https://media4.giphy.com/media/l2QE6znHVshMqR5ba/source.gif" width="300" height="200" /> 
+<img src="https://github.com/Youssef-Bu/Youssef-Bu/blob/main/pic/AN.gif" width="300" height="200" /> 
+
+
+
+![](https://github.com/Youssef-Bu/Youssef-Bu/blob/main/pic/github-contribution-grid-snake.svg)
