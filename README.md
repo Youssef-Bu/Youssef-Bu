@@ -28,7 +28,7 @@
   
 </div>
  
-<img src="https://github.com/Youssef-Bu/Youssef-Bu/blob/main/pic/AN.gif" width="300" height="200" /> 
+<!-- <img src="https://github.com/Youssef-Bu/Youssef-Bu/blob/main/pic/AN.gif" width="300" height="200" />  -->
 
 
 
